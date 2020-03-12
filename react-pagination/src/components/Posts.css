@@ -1,0 +1,9 @@
+.list-post-item{
+    margin: 20px auto;
+}
+.list-post-item h3, p {
+    margin: 5px 5px ;
+}
+.post-panenl,span{
+    margin: 5px 5px;
+}
